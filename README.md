@@ -12,10 +12,11 @@ Hi there,I'm Habibulloh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
 </h1>
 <div align="center">
- <div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVtZWFqZ2Jhb2Q0b3kyd3RjbmdwMmMwMzU2c3ZrNHRubXQ5cndmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNfIqjpCY1zqfaLmd8/giphy.gif" alt="gif" />
 </div>
 </p>
 </p>
+
 ### 👨‍💻 About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
