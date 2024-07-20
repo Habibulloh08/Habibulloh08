@@ -23,7 +23,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I read tech articles and tech books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bekmurod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bekmurod-boqiyev-730681253/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Habibulloh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibulloh-karimov-5b87a2293/)
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
