@@ -12,9 +12,9 @@ Hi there,I'm Habibulloh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src=<iframe src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8">via GIPHY</a>" width="600" height="300"/>
 </div>
-<iframe src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8">via GIPHY</a></p>
+</p>
 </p>
 ### 👨‍💻 About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
