@@ -32,7 +32,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" height="40px"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javscript" width="40px" height="40px" />
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40px" height="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"   alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40px" height="40px" />
      <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="40px" height="40px" />
