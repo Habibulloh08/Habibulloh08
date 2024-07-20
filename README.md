@@ -14,8 +14,8 @@ Hi there,I'm Habibulloh!
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 <iframe src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8">via GIPHY</a></p>
+</p>
 ### 👨‍💻 About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
@@ -28,16 +28,16 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" height="40px"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javscript" width="40px" height="40px" />
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title='NextJS' alt="nextjs" width="40px" height="40px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"   alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40px" height="40px" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="40px" height="40px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="40px" height="40px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title='ReactJs' alt="react" width="40px" height="40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title='TypeScript' alt="typescript" width="40px" height="40px"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javscript" title='JavaScript' width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title='NextJs' alt="nextjs" width="40px" height="40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"   alt="HTML" width="40" title='HTML' height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40px" title='Sass' height="40px" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="40px" title='Vitetest' height="40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" title='Css' width="40px" height="40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title='Git' title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title='GitHub' alt="GitHub" width="40px" height="40px" />
  
 </div>
 
