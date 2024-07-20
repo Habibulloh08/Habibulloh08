@@ -15,8 +15,7 @@ Hi there,I'm Habibulloh!
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<iframe src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8">via GIPHY</a>
-
+<iframe src="https://giphy.com/embed/cNfIqjpCY1zqfaLmd8" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cNfIqjpCY1zqfaLmd8">via GIPHY</a></p>
 ### 👨‍💻 About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
@@ -32,7 +31,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" height="40px"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javscript" width="40px" height="40px" />
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40px" height="40px" />
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title='NextJS' alt="nextjs" width="40px" height="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"   alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40px" height="40px" />
      <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="40px" height="40px" />
